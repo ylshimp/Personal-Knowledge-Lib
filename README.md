@@ -1,2 +1,2 @@
 # Personal-Knowledge-Lib
-My personal knowledge lib including techinical and management.
+My personal knowledge lib including technical and management..
